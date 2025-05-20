@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+web3
+pillow
+tensorflow
+pydantic
+twilio
+streamlit
+requests
+plotly
+pandas
+python-dotenv
+fpdf2
+pydantic
